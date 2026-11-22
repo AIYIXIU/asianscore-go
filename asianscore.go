@@ -6,7 +6,7 @@
 //   - Multiplicative and Power odds devigging (https://asianscore.com/tools.html)
 //   - Fractional Kelly criterion bankroll sizing
 //   - Dixon-Coles low-score adjusted Poisson match probabilities
-//   - Multi-class Brier score calibration verification (https://asianscore.com/ai.html)
+//   - Multi-class Brier score calibration verification (https://asianscore.com/models.html)
 package asianscore
 
 import (
